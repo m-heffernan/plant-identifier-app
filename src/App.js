@@ -1,4 +1,4 @@
-import { Component } from "react";
+import React, { Component } from "react";
 import "./App.css";
 import Logo from "./Components/Logo/Logo";
 import Hero from "./Components/Hero/Hero";

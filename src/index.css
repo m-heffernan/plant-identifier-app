@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Courier-New", "Courier New", Courier, monospace;
+  font-family: "Andale Mono", monospace;
   background: linear-gradient(89deg, #04dea8 0%, #f8f7f8 100%);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
